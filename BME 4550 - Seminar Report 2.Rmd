@@ -1,6 +1,10 @@
 ---
 title: "BME 4550 - Seminar Report 2"
-output: html_notebook
+output:
+  html_document:
+    df_print: paged
+  pdf_document: default
+  word_document: default
 ---
 
 ####**Name:** Anthony (Tony) DeNovio
@@ -19,7 +23,7 @@ output: html_notebook
 
 #---
 
-###Overarching Research Topic
+#Overarching Research Topic
 
 ####Dr. Brumell's focus was on how bacterial infection spreads from cell to cell. Previous art had shown that Listeria *monocytogenes* could "hide" in multiple parts of the cell, such as a vacuole. Dr. Brumell's research furthers this art by asking the question: "What happens after?"
 
