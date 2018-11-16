@@ -1,0 +1,50 @@
+---
+title: "BME 4550 - Seminar Report 2"
+output: html_notebook
+---
+
+####**Name:** Anthony (Tony) DeNovio
+
+####**Seminar Speaker's Name:** John H. Brumell
+
+####**Seminar Speaker's Title:** Ph.D.
+
+####**Seminar Speaker's Affiliation:** University of Toronto
+
+####**Date:** 11/14/18
+
+####**Time:** 1600-1700
+
+####**Seminar Title:** *Mechanisms regulating cell-to-cell spread by Listeria monocytogenes*
+
+#---
+
+###Overarching Research Topic
+
+####Dr. Brumell's focus was on how bacterial infection spreads from cell to cell. Previous art had shown that Listeria *monocytogenes* could "hide" in multiple parts of the cell, such as a vacuole. Dr. Brumell's research furthers this art by asking the question: "What happens after?"
+
+#---
+
+#Research Question/Hypothesis Tested
+
+####As stated earlier, Dr. Brumell focused on the "after" part. Therefore, his main question was: "How does Listeria *monocytogenes* spread from cell to cell?" Listeria *monocytogenes* is an interesting bacteria species because it infects a cell and then utilizes the host proteins to escape and infect another cell. ActA is the virulence factor that becomes polarized on the bacterial surface, leading to the distinct "comet tail" of motor proteins that propel the bacterium forward. Dr. Brumell discussed how actin polymerization is different in the "comet tail" when compared to the polymerization during protrusion of the bacteria from the host cell. Further statements reflected that the membrane protrusion from the host cell must be removed before the bacterium can be uptaken by a secondary host.
+
+#---
+
+#Methods & Experimental Design
+
+####Dr. Brumell spoke about the Listeriolysin-O (LLO) toxin and it's role in cell spread. LLO is released from the bacteria in a monomeric form, but polymerizes on the host cell surface. The significance of LLO was demonstrated via a LLO gene knockout, where LLO-deficient bacteria failed to cause membrane damage. Typically LLO is removed by plasma membrane repair pathways, but these pathways are calcium ion dependent. The opening of calcium ion channels leads to exposure of exofacial phosphotidylserine, a biomolecule that is only localized to the inner plasma membrane and is involved in apoptosis signaling. The calcium ion dependence has been shown using propridium iodide, which damages cell membranes, but was only noted when the cells were hypocalcemic. Dr. Brumell returned to the concept of cellular protrusions by stating that they assist in acquiring exofacial phosphotidylserine. The TIM-4 receptor recognizes phosphotidylserine and promotes protrusion, therefore Dr. Brumell pointed to evidence suggesting that the receptor assist in Listeria spread.
+
+#---
+
+#Conclusions
+
+####Dr. Brumell found that LLO plays a roll in the spread of Listeria *monocytogenes*. TIm4 also promotes spread by promoting protrusion, which leads to the uptake of PS+ bacteria containing vesicles.
+
+#---
+
+#Questions
+
+####1. How many different cell types did you look at?
+
+####2. How do these cells sense other PS+ cells?
